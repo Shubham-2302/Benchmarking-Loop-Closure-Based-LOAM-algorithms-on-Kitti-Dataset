@@ -1,3 +1,12 @@
 [submodule "SC-A-LOAM"]
 	path = SC-A-LOAM
 	url = https://github.com/Shubham-2302/SC-A-LOAM
+[submodule "SC-LeGO-LOAM"]
+	path = SC-LeGO-LOAM
+	url = https://github.com/Shubham-2302/SC-LeGO-LOAM.git
+[submodule "LeGo-LOAM"]
+	path = LeGo-LOAM
+	url = https://github.com/Shubham-2302/LeGo-LOAM.git
+[submodule "ISCLOAM-Intensity-Scan-Context-Based-Lidar-Odometry-and-Mapping"]
+	path = ISCLOAM-Intensity-Scan-Context-Based-Lidar-Odometry-and-Mapping
+	url = https://github.com/Shubham-2302/ISCLOAM-Intensity-Scan-Context-Based-Lidar-Odometry-and-Mapping
